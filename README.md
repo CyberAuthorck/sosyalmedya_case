@@ -28,8 +28,8 @@ Ana akışlardan birkaç ekran:
 ![Ana Sayfa](/assets/screenshots/home.png)
 ![Kullanıcılar](/assets/screenshots/users.png)
 ![Gönderi Detay](/assets/screenshots/detail.png)
+![Gönderi Detay 2](/assets/screenshots/detail2.png)
 ![Yeni Gönderi](/assets/screenshots/add.png)
-
 
 
 ---
