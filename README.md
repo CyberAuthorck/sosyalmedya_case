@@ -25,10 +25,10 @@ Bu proje, Flutter ile modern, modüler ve test edilebilir mimaride bir sosyal me
 ## Ekran Görüntüleri
 
 Ana akışlardan birkaç ekran:
-![Ana Sayfa](lib/assets/screenshots/home.png)
-![Kullanıcılar](lib/assets/screenshots/users.png)
-![Gönderi Detay](lib/assets/screenshots/detail.png)
-![Yeni Gönderi](lib/assets/screenshots/add.png)
+![Ana Sayfa](/assets/screenshots/home.png)
+![Kullanıcılar](/assets/screenshots/users.png)
+![Gönderi Detay](/assets/screenshots/detail.png)
+![Yeni Gönderi](/assets/screenshots/add.png)
 
 
 
